@@ -112,8 +112,8 @@ body{
 
 @media only screen and (max-width: 600px) {
   .container{
-    left: 5px;
-    right: 5px;
+    left: 5%;
+    right: 5%;
     width: 320px;
   }
 }
